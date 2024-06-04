@@ -5,7 +5,7 @@
 
 ### Announcing [**JavaScript**](https://aka.ms/azai/js/code), [**.NET**](https://aka.ms/azai/net/code), and [**Java**](https://aka.ms/azai/java/code) samples based on this one ([**Python**](https://aka.ms/azai/py/code)). Learn more at  https://aka.ms/azai.
 
-## Table of Contents
+## Table of Contents 
 
 - [Features](#features)
 - [Azure account requirements](#azure-account-requirements)
